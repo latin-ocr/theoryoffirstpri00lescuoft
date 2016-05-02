@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./theoryoffirstpri00lescuoft_0543.png"; bbox 0 0 2161 3029; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 728 266 1562 308">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 728 266 1562 308">
+     <span class='ocr_line' id='line_1_1' title="bbox 728 266 1562 308; baseline 0.005 -4"><span class='ocrx_word' id='word_1_1' title='bbox 728 266 786 304; x_wconf 69' lang='lat'>³¹7</span> <span class='ocrx_word' id='word_1_2' title='bbox 1502 269 1562 308; x_wconf 75' lang='lat'>58</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 368 314 1863 369">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 368 314 1863 369">
+     <span class='ocr_line' id='line_1_2' title="bbox 368 314 1863 369; baseline 0.005 -13"><span class='ocrx_word' id='word_1_3' title='bbox 368 314 730 363; x_wconf 62' lang='lat' dir='ltr'>exputata</span> <span class='ocrx_word' id='word_1_4' title='bbox 815 316 1260 366; x_wconf 58' lang='lat' dir='ltr'><strong>mutu.</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1324 319 1501 360; x_wconf 69' lang='lat' dir='ltr'>nocuo</span> <span class='ocrx_word' id='word_1_6' title='bbox 1566 320 1863 369; x_wconf 61' lang='grc' dir='ltr'>,Μ’</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 367 415 1737 565">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 367 415 1737 565">
+     <span class='ocr_line' id='line_1_3' title="bbox 367 415 1737 467; baseline 0.003 -12"><span class='ocrx_word' id='word_1_7' title='bbox 367 415 1737 467; x_wconf 58' lang='lat' dir='ltr'>mquumssntmotpmoemejm</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 368 513 1201 565; baseline 0.002 -9"><span class='ocrx_word' id='word_1_8' title='bbox 368 513 1201 565; x_wconf 57' lang='lat' dir='ltr'>mmmmm.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
